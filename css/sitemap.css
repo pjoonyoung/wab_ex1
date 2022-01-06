@@ -1,0 +1,20 @@
+#main_page {
+width:1000px;
+margin:0 auto;
+}
+
+#sitemap div {
+float:left;
+margin-right:20px;
+}
+
+#sitemap h3 {
+font-size:15px;
+color:#12b9b2;
+margin-left:20px;
+}
+
+#sitemap li {
+list-style-image:url("img/blue_dot.gif");
+margin-left:18px;
+}
