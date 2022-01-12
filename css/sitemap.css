@@ -3,6 +3,10 @@ width:1000px;
 margin:0 auto;
 }
 
+#sitemap{
+    margin-top:20px;
+}
+
 #sitemap div {
 float:left;
 margin-right:20px;
